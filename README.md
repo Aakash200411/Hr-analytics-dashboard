@@ -8,8 +8,6 @@ This project presents an interactive HR Analytics Dashboard built using Microsof
 
 ## Dashboard Preview
 
-> Replace the image below with your dashboard screenshot.
-
 ![HR Analytics Dashboard](Images/hr_dashboard.png)
 
 ---
