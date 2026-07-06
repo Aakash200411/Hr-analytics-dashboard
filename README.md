@@ -1,43 +1,29 @@
-# 👥 HR Analytics Dashboard (Power BI)
+# 📊 HR Analytics Dashboard (Power BI)
 
 ## Overview
 
-This project focuses on workforce analytics using Power BI. The dashboard provides insights into employee attrition, workforce demographics, departmental performance, and HR KPIs to support data-driven decision-making.
+This project presents an interactive HR Analytics Dashboard built using Microsoft Power BI to analyze employee attrition, workforce demographics, and departmental trends. The dashboard enables HR professionals and business leaders to monitor workforce health, identify attrition patterns, and support data-driven HR decisions.
 
 ---
 
-## Objectives
+## Dashboard Preview
 
-- Monitor HR KPIs
-- Analyze employee attrition
-- Understand workforce distribution
-- Compare department performance
-- Support HR decision-making
+> Replace the image below with your dashboard screenshot.
+
+![HR Analytics Dashboard](Images/hr_dashboard.png)
 
 ---
 
-## Tech Stack
+## Business Problem
 
-- Power BI
-- DAX
-- Power Query
+Employee attrition can significantly impact productivity, recruitment costs, and organizational performance. This dashboard helps answer important HR questions such as:
 
----
-
-## Dataset
-
-HR Analytics Dataset
-
-Includes:
-
-- Employee Information
-- Department
-- Job Role
-- Education
-- Income
-- Years at Company
-- Attrition
-- Job Satisfaction
+- What is the overall attrition rate?
+- Which departments experience the highest attrition?
+- Which salary groups have higher employee turnover?
+- How does employee satisfaction relate to attrition?
+- Which age groups are most represented?
+- How does employee experience affect attrition?
 
 ---
 
@@ -46,54 +32,44 @@ Includes:
 ### KPI Cards
 
 - Total Employees
+- Active Employees
 - Attrition Count
 - Attrition Rate
-- Average Age
-- Average Salary
-- Average Years at Company
-
-### Workforce Analysis
-
-- Employees by Department
-- Employees by Job Role
-- Gender Distribution
-- Education Analysis
-- Age Distribution
-
-### Attrition Analysis
-
-- Attrition by Department
-- Attrition by Age Group
-- Attrition by Job Role
-- Attrition by Salary
-- Attrition by Years at Company
+- Average Employee Age
+- Average Years of Experience
 
 ### Interactive Filters
 
-- Department
-- Education
-- Gender
-- Job Role
 - Age Group
+- Department
+
+### Visualizations
+
+- Attrition by Department
+- Attrition by Salary Slab
+- Attrition by Job Role and Satisfaction Level
+- Age Group Distribution
+- Attrition by Gender
+- Attrition Trend by Experience
+- Department-wise Employee Count
 
 ---
 
-## Business Insights
+## Key Insights
 
-- Identified departments with high attrition
-- Highlighted employee groups at higher risk of leaving
-- Compared workforce demographics
-- Supported workforce planning and retention strategies
+- Overall employee attrition can be monitored through KPI cards.
+- Certain departments contribute more to employee turnover.
+- Employees within specific salary slabs experience higher attrition.
+- Job satisfaction has a noticeable relationship with employee attrition.
+- Most employees belong to the younger and mid-career age groups.
+- Attrition tends to decrease as employee experience increases.
 
 ---
 
-## DAX Measures
+## Tools & Technologies
 
-Examples include:
-
-- Attrition Rate
-- Active Employees
-- Average Income
-- Employee Count
-- Average Tenure
-- Dynamic KPI Measures
+- Microsoft Power BI
+- Power Query
+- DAX
+- Data Modeling
+- Interactive Dashboard Design
