@@ -2,9 +2,9 @@
 
 A three-page Power BI report on 1,464 employees that answers three questions: **who leaves, which factors raise the risk, and which current employees to talk to first.**
 
-![Page 1: Attrition at a glance](images/Hr_overview.png)
-![Page 2: Why people leave](images/Hr_Drivers.png)
-![Page 3: People at risk](images/Hr_People_at_Risk.png)
+![Page 1: Attrition at a glance](Images/Hr_overview.png)
+![Page 2: Why people leave](Images/Hr_Drivers.png)
+![Page 3: People at risk](Images/Hr_People_at_Risk.png)
 
 **Tools:** Power BI · DAX · Power Query
 
